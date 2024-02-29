@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(83, 52, 52);
+}
+.image1{
+    border-radius:50%;
+    position: fixed;
+    top: 2%;
+    box-shadow: #fff 2px 8px 2px;
+
+}
+.formulario{
+    border: solid 2px;
+    border-radius: 1cm;
+    color: #fff;
+    width: 50%;
+    margin-left: 28%;
+    margin-top: 0%;
+    box-shadow: 2px 7px 21px;
+    background-color: rgb(197, 145, 145);
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+#name{
+    color: black;
+}
+#correo{
+    color: black;
+}
+#numero{
+    color: black;
+}
+#fecha{
+    color: black;
+}
+.envia{
+    background-color: black;
+    color: #fff;
+}
+input {
+    width: 40%;
+}
+.cass1{
+    width: 60%;
+}
+.table{
+    border: solid 2px;
+    border-radius: 1cm;
+    color: #fff;
+    width: 90%;
+    margin-left: 2%;
+    box-shadow: 2px 7px 21px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(197, 145, 145);
+
+}
+td{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    align-items: center;
+    color: black;
+}
+table{
+    margin-left: 11%;
+}
+th{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    color: black;
+    background-color: white;
+}
